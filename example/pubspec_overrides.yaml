@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: pie_chart
+dependency_overrides:
+  pie_chart:
+    path: ../packages/pie_chart
